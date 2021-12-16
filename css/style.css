@@ -1,0 +1,161 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: sans-serif;
+	font-size:16px ;
+	font-weight: 400;
+	color: #0661ed;
+}
+/*CSS cursor Property start*/
+h1{
+	margin-bottom: 30px;
+	text-align: center;
+	color: #f3bb17;
+}
+.alias {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: alias;}
+.all-scroll {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: all-scroll;}
+.auto {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: auto;}
+.cell {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: cell;}
+.context-menu {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: context-menu;}
+.col-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: col-resize;}
+.copy {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: copy;}
+.crosshair {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: crosshair;}
+.default {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: default;}
+.e-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: e-resize;}
+.ew-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: ew-resize;}
+.grab {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: -webkit-grab; cursor: grab;}
+.grabbing {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: -webkit-grabbing; cursor: grabbing;}
+.help {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: help;}
+.move {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: move;}
+.n-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: n-resize;}
+.ne-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: ne-resize;}
+.nesw-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: nesw-resize;}
+.ns-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: ns-resize;}
+.nw-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: nw-resize;}
+.nwse-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: nwse-resize;}
+.no-drop {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: no-drop;}
+.none {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: none;}
+.not-allowed {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: not-allowed;}
+.pointer {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: pointer;}
+.progress {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: progress;}
+.row-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: row-resize;}
+.s-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: s-resize;}
+.se-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: se-resize;}
+.sw-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: sw-resize;}
+.text {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: text;}
+.url {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: url(myBall.cur),auto;}
+.w-resize {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: w-resize;}
+.wait {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: wait;}
+.zoom-in {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: zoom-in;}
+.zoom-out {
+	margin-bottom: 10px;
+	text-align: center;
+	cursor: zoom-out;}
+	/*CSS cursor Property end*/
